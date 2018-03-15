@@ -1,0 +1,10 @@
+c:\users\nje\source\repos\MessageService\MesssageService\bin\MesssageService.dll.config
+c:\users\nje\source\repos\MessageService\MesssageService\bin\MesssageService.dll
+c:\users\nje\source\repos\MessageService\MesssageService\bin\MesssageService.pdb
+c:\users\nje\source\repos\MessageService\MesssageService\bin\EntityFramework.dll
+c:\users\nje\source\repos\MessageService\MesssageService\bin\EntityFramework.SqlServer.dll
+c:\users\nje\source\repos\MessageService\MesssageService\bin\EntityFramework.xml
+c:\users\nje\source\repos\MessageService\MesssageService\bin\EntityFramework.SqlServer.xml
+c:\users\nje\source\repos\MessageService\MesssageService\obj\Debug\MesssageService.csproj.CoreCompileInputs.cache
+c:\users\nje\source\repos\MessageService\MesssageService\obj\Debug\MesssageService.dll
+c:\users\nje\source\repos\MessageService\MesssageService\obj\Debug\MesssageService.pdb
